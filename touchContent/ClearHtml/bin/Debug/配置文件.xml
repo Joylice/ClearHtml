@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<record version="4.0">
+<add key="Delimiter" value=",|—|.|（|）|《|》|”|“|。|，|(|)|、|&quot;"/>
+</record>

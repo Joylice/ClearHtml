@@ -1,0 +1,17 @@
+c:\users\wangmeng03\documents\visual studio 2010\Projects\ClearHtml\ClearHtml\bin\Debug\ClearHtml.exe
+c:\users\wangmeng03\documents\visual studio 2010\Projects\ClearHtml\ClearHtml\bin\Debug\ClearHtml.pdb
+c:\users\wangmeng03\documents\visual studio 2010\Projects\ClearHtml\ClearHtml\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\wangmeng03\documents\visual studio 2010\Projects\ClearHtml\ClearHtml\obj\x86\Debug\ClearHtml.Form1.resources
+c:\users\wangmeng03\documents\visual studio 2010\Projects\ClearHtml\ClearHtml\obj\x86\Debug\ClearHtml.Properties.Resources.resources
+c:\users\wangmeng03\documents\visual studio 2010\Projects\ClearHtml\ClearHtml\obj\x86\Debug\ClearHtml.exe
+c:\users\wangmeng03\documents\visual studio 2010\Projects\ClearHtml\ClearHtml\obj\x86\Debug\ClearHtml.pdb
+c:\users\wangmeng03\documents\visual studio 2010\Projects\ClearHtml\ClearHtml\bin\Debug\ClearHtml.exe.config
+c:\users\wangmeng03\documents\visual studio 2010\Projects\ClearHtml\ClearHtml\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\wangmeng03\documents\visual studio 2010\Projects\ClearHtml\ClearHtml\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wangmeng03\Documents\Visual Studio 2010\Projects\ClearHtml\ClearHtml\bin\Debug\ClearHtml.exe.manifest
+C:\Users\wangmeng03\Documents\Visual Studio 2010\Projects\ClearHtml\ClearHtml\bin\Debug\ClearHtml.application
+C:\Users\wangmeng03\Documents\Visual Studio 2010\Projects\ClearHtml\ClearHtml\obj\x86\Debug\ClearHtml.exe.manifest
+C:\Users\wangmeng03\Documents\Visual Studio 2010\Projects\ClearHtml\ClearHtml\obj\x86\Debug\ClearHtml.application
+D:\备份文件\国图_章节内容抓取工具\ClearHtml\ClearHtml\bin\Debug\ClearHtml.exe.config
+D:\备份文件\国图_章节内容抓取工具\ClearHtml\ClearHtml\obj\x86\Debug\ClearHtml.exe
+D:\备份文件\国图_章节内容抓取工具\ClearHtml\ClearHtml\obj\x86\Debug\ClearHtml.pdb
